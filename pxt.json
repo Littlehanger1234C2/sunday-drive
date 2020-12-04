@@ -5,7 +5,12 @@
         "device": "*",
         "palette": "*",
         "radio-broadcast": "*",
-        "animation": "*"
+        "animation": "*",
+        "keyboard": "*",
+        "mouse": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.0",
+        "controller": "*",
+        "Late for Work": "github:littlehanger1234c2/late-for-work#master"
     },
     "files": [
         "main.blocks",
