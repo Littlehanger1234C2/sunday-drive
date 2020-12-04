@@ -2,7 +2,10 @@
     "name": "Sunday Drive",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "palette": "*",
+        "radio-broadcast": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
